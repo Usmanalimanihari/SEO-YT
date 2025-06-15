@@ -1,0 +1,5 @@
+youtube-seo-tool/
+│── index.html          # Main HTML file
+│── style.css           # Styling
+│── script.js           # JavaScript functionality
+│── assets/             # Folder for images/icons
